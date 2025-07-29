@@ -51,13 +51,12 @@ Each phase folder contains detailed Markdown reports and supporting screenshots.
 ## Disclaimer:
 
 All activities documented in this repository were performed in a controlled, isolated lab environment for educational purposes only. These techniques should never be attempted on unauthorized systems. I adhere strictly to ethical hacking principles.
+##  Clone This Project
 
-## Your Contact Info:
-Linkedin
-|
-|
-^
+If you'd like to explore or contribute to this cybersecurity lab setup featuring Metasploitable2, feel free to clone the repository using the command below:
 
-https://www.linkedin.com/in/sadisumr/?trk=opento_sprofile_details
+```bash
+git clone https://github.com/smokemoha/-Cybersecurity-Lab-Metasploitable2.git
 
-^
+```
+
