@@ -1,0 +1,19 @@
+# Virtual Machine files
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.vmx
+*.vmxf
+*.vmsd
+*.nvram
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+
